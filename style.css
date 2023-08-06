@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.heading {
+    color: rgb(92, 92, 133);
+    margin: 100px auto 30px auto;
+    text-align: center;
+    font-size: large;
+}
+.buttons{
+    /* margin: auto auto; */
+    text-align: center;
+}
+button {
+    width: 15vh;
+    height: 5vh;
+    border: 2px solid rgb(105, 105, 68);
+    border-radius: 10px;
+    font-weight: bold;
+    color: rgb(105, 105, 68); ;
+}
